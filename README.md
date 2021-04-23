@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azer132
+- 👋 Hi, I’m @Azer
 - 👀 I’m interested in Tech and Development
 - 🌱 I’m currently learning Web dev 
 - 💞️ I’m looking to collaborate on ...
